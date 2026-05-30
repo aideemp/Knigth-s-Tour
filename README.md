@@ -2,4 +2,4 @@
 
 ¡Hola! Puedes ver la aplicación web en vivo haciendo clic en el siguiente enlace:
 
-👉 [Ver página web aquí](https://tu-app-de-streamlit.streamlit.app)
+https://ai-student-impact-8anrc3dybyj7gj5evmjysy.streamlit.app/
