@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Características Principales
+##  Características Principales
 
 * **Teoría Interactiva:** Un espacio didáctico para comprender cómo se conectan los movimientos del ajedrez con las estructuras de datos avanzadas.
 * **Visualizador de Caminos Hamiltonianos:** Animación interactiva del "Problema del Caballo" (*Knight's Tour*) resolviéndose en milisegundos.
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 Respaldos Matemáticos y Algorítmicos
+##  Respaldos Matemáticos y Algorítmicos
 
 El núcleo de la sección de optimización se basa en el **Problema del Caballo**, el cual consiste en recorrer las 64 casillas del tablero visitando cada una **exactamente una vez**.
 
@@ -23,7 +23,7 @@ El núcleo de la sección de optimización se basa en el **Problema del Caballo*
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 * **Python 3** - Lenguaje principal.
 * **NumPy** - Gestión y manipulación de matrices para el estado del tablero.
@@ -32,7 +32,7 @@ El núcleo de la sección de optimización se basa en el **Problema del Caballo*
 
 ---
 
-## 💻 Instalación y Ejecución Local
+##  Instalación y Ejecución Local
 
 Si deseas clonar este repositorio y ejecutar el prototipo algorítmico en tu máquina, sigue estos pasos:
 
