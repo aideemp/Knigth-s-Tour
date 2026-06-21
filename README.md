@@ -30,13 +30,4 @@ El núcleo de la sección de optimización se basa en el **Problema del Caballo*
 * **Streamlit** *(Próximamente)* - Framework para el despliegue de la interfaz web interactiva.
 * **Plotly / Pandas** *(Próximamente)* - Procesamiento de datos y gráficas estadísticas.
 
----
-
-##  Instalación y Ejecución Local
-
-Si deseas clonar este repositorio y ejecutar el prototipo algorítmico en tu máquina, sigue estos pasos:
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/aideemp/AI-STUDENT-IMPACT.git](https://github.com/aideemp/AI-STUDENT-IMPACT.git)
-   cd AI-STUDENT-IMPACT
+Sandy
