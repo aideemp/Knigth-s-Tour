@@ -1,4 +1,4 @@
-# ♟️ Knight's Tour Solver
+# Knight's Tour Solver
 
 ¡Bienvenido! Este proyecto es una aplicación interactiva que explora la intersección entre el **Ajedrez**, la **Ciencia de Datos** y la **Teoría de Grafos**. El objetivo principal es analizar historiales de partidas en formato PGN y resolver retos algorítmicos clásicos modelando el tablero como un grafo funcional.
 
