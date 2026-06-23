@@ -19,7 +19,7 @@ El núcleo de la sección de optimización se basa en el **Problema del Caballo*
 * **Enfoque de Grafos:** El tablero se modela como un grafo $G = (V, E)$, donde los vértices $V$ son las 64 casillas y las aristas $E$ son los movimientos legales de la pieza. Encontrar el recorrido perfecto equivale a hallar un **Camino Hamiltoniano**.
 * **La Regla de Warnsdorff:** Para evitar la complejidad exponencial ($NP$-completa) del *backtracking* por fuerza bruta, implementamos una heurística lineal. El algoritmo evalúa el entorno local y desplaza la pieza hacia la casilla adyacente que posea el **menor grado de salida futuro**, garantizando una solución óptima instantánea.
 
-> 📁 El prototipo algorítmico base para terminal con documentación y comentarios académicos se encuentra disponible en `research/warnsdorff_prototype.py`.
+>  El prototipo algorítmico base para terminal con documentación y comentarios académicos se encuentra disponible en `research/warnsdorff_prototype.py`.
 
 ---
 
